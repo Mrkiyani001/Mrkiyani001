@@ -52,15 +52,6 @@ I am a passionate Developer focused on **Scalable Backend Architectures** and **
 
 ---
 
-### 🏆 My Achievements
-
-
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrkiyani001&theme=gitdimmed&no-frame=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
 
 ### ⚡ Coding Activity
 
@@ -84,20 +75,3 @@ I am a passionate Developer focused on **Scalable Backend Architectures** and **
 
 </div>
 
-
-
-### 🏆 Achievements & Activity
-
-
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrkiyani001&theme=gitdimmed&no-frame=true&column=7&margin-w=15" />
-
-  <br>
-
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrkiyani001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
-</div>
