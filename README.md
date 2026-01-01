@@ -60,6 +60,8 @@ I am a passionate Developer focused on **Scalable Backend Architectures** and **
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkiyani001&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrkiyani001&label=Profile%20Views&color=blue&style=flat-square" alt="Mrkiyani001" />
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrkiyani001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
