@@ -54,15 +54,11 @@ I am a passionate Developer focused on **Scalable Backend Architectures** and **
 
 ### 📊 GitHub Stats (Live Data)
 
-<div align="center">
-  <a href="https://github.com/Mrkiyani001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mrkiyani001&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/Mrkiyani001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkiyani001&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-  </a>
-</div>
+### 📊 GitHub Stats
+
+![Mrkiyani001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrkiyani001&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkiyani001&layout=compact&theme=tokyonight&hide_border=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mrkiyani001&label=Profile%20Views&color=blue&style=flat-square" alt="Mrkiyani001" />
