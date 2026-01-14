@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi there, I'm <a href="https://github.com/Mrkiyani001">Mr. Kiyani</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/Mrkiyani001">Mr. Kayani</a>! 👋</h1>
 
   <h3>Backend & WP Developer | DB & Logic Expert 🧠</h3>
   <p><i>Building clean, fast & reliable digital solutions 🚀</i></p>
